@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## VidyaMitra – AI-Powered Career Agent
 
 Vidyamitra is an AI-powered career guidance platform that helps students and professionals
@@ -46,3 +47,6 @@ frontend, following the architecture described in your project document.
 
 Detailed instructions and configuration live in each subfolder.
 
+=======
+# VidyaGuide_Ai_Agent
+>>>>>>> 6f14beb6192dbafc99f42412e18d416a73a32eeb
